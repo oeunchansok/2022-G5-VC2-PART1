@@ -18,9 +18,8 @@
           </v-list-item>
       </template>
     </Navigation-Bar>
-    
+
   </div>
- 
 </template>
 
 <script>
